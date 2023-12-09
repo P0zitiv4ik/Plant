@@ -1,0 +1,64 @@
+"global.restore_purchases" = "Restore Purchases";
+"global.terms_of_use" = "Terms of Use";
+"global.privacy_policy" = "Privacy Policy";
+"global.history" = "History";
+"global.my_garden" = "My garden";
+"global.identify" = "Identify";
+"global.diagnose" = "Diagnose";
+"global.watering" = "Watering";
+"global.repot" = "Repot";
+"global.cut" = "Cut";
+"global.spraying" = "Spraying";
+"global.fertilizer" = "Fertilizer";
+
+"onboarding.identify_plant" = "Identify plant";
+"onboarding.plant_identification_capabilities" = "Learn extensively about 30,000\nplants from various regions";
+"onboarding.turn_on_a_reminder" = "Turn on a reminder";
+"onboarding.reminder_enabled_capabilities" = "Reminders for watering,\nfertilizing plants, reports";
+"onboarding.diagnose_disease" = "Diagnose disease";
+"onboarding.disease_diagnosis_capabilities" = "Get information about treatment\nmethods for each recognized disease";
+"onboarding.get_started" = "Get started";
+
+"paywall.try_for_free" = "Try for free!";
+"paywall.first_advantage_of_the_app" = "99.9% accurancy of identification";
+"paywall.second_advantage_of_the_app" = "Take care your plant";
+"paywall.third_advantage_of_the_app" = "Tips and treatment plant";
+"paywall.billed_annually" = "Billed annually";
+"paywall.billed_weekly" = "Billed weekly";
+"paywall.yearly" = "Yearly";
+"paywall.weekly" = "Weekly";
+"paywall.continue" = "Continue";
+"paywall.annual_subscription_price" = "$%@/billed annually";
+"paywall.weekly_subscription_price" = "$%@/week";
+
+"settings.settings" = "Settings";
+"settings.upgrade_PRO" = "Upgrade PRO";
+"settings.plant_advice" = "Take care plants";
+"settings.notifications" = "Notifications";
+"settings.support" = "Support";
+
+"scan.identification_message" = "Please wait, plant\nidentification is in progress";
+
+"info_plant.add_plant" = "Add plant";
+
+"plant_not_found.plant_not_found" = "Plant not found";
+"plant_not_found.retry_message" = "Please try again. Check image quality, angle and lighting";
+"plant_not_found.try_again" = "Try again";
+
+"my_garden.needs_to_be_watered" = "needs to be watered";
+"my_garden.needs_to_be_replanted" = "needs to be replanted";
+"my_garden.needs_to_be_cuted" = "needs to be cuted";
+"my_garden.needs_to_be_sprayed" = "needs to be sprayed";
+"my_garden.needs_to_be_fertilized" = "needs to be fertilized";
+
+"plant.notifications_message" = "Notifications will be sent at ";
+
+"plant_care.notifications_message" = "Choose time to\nnotifications will arrive";
+"plant_care.days" = "days";
+"plant_care.weeks" = "weeks";
+"plant_care.months" = "months";
+"plant_care.years" = "years";
+"plant_care.add_time" = "Add time";
+"plant_care.done" = "Done";
+
+
